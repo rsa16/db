@@ -1,7 +1,5 @@
 {
-  "rehan" : {
-     "age" : "5",
-     "data" : "hello"
-     }
+  "presidents": [
+    { "name": "barack obama", "here":"True" }
+  ]
 }
-  
